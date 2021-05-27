@@ -3,7 +3,7 @@
 { <br/>
 "firstName": "Rachel", <br/>
 "lastName": "Salazar", <br/>
-"title": "FullStack Software Developer", <br/>
+"title": "Full Stack Web Developer", <br/>
 "pronouns": "(she/her)" <br/>
 }
 
