@@ -3,9 +3,9 @@
 let bio = { <br/>
 "firstName": "Rachel", <br/>
 "lastName": "Salazar", <br/>
-"title": "Front End Developer", <br/>
+"title": "Front-End Developer", <br/>
 "pronouns": "(she/her)", <br/>
-"summary": "I am a Front End Developer with a love for problem solving, details, and good design." <br/>
+"summary": "I am a Front-End Developer with a love for problem solving, details, and good design." <br/>
 };
 
 ### Technologies:
