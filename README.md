@@ -7,9 +7,9 @@
 
 - 📫  How to reach me: **ret1992@gmail.com**
 
-- 📄  See my experience: *[Rachel Salazar Resume](https://rachelsalazar.herokuapp.com/assets/rachel-salazar-resume.pdf)**
+- 📄  See my experience: **[resume](https://rachelsalazar.herokuapp.com/assets/rachel-salazar-resume.pdf)**
 
-- ⚡  Fun fact: **I was voted senior class clown**
+- ⚡  Fun fact: **voted senior class clown**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
