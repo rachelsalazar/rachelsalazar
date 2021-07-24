@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rachel Salazar</h1>
 <h3 align="center">A Front-End Developer from Seattle, WA🌲</h3>
 
-- 🔭 I’m currently working on **an app to keep track of indoor plants and their needs**
+- 🔭  I’m currently working on **an app to keep track of your indoor plants and their needs**
 
-- 👨‍💻 All of my projects are available at [rachelsalazar.me](rachelsalazar.me)
+- 👨‍💻  All of my projects are available at **[rachelsalazar.me](rachelsalazar.me)**
 
-- 📫 How to reach me **ret1992@gmail.com**
+- 📫  How to reach me: **ret1992@gmail.com**
 
-- 📄 Know about my experiences [https://rachelsalazar.herokuapp.com/assets/rachel-salazar-resume.pdf](https://rachelsalazar.herokuapp.com/assets/rachel-salazar-resume.pdf)
+- 📄  See my experience: *[Rachel Salazar Resume](https://rachelsalazar.herokuapp.com/assets/rachel-salazar-resume.pdf)**
 
-- ⚡ Fun fact **I was voted senior class clown**
+- ⚡  Fun fact: **I was voted senior class clown**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
