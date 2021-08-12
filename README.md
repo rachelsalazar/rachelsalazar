@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rachel Salazar</h1>
-<h3 align="center">A Front-End Developer from Seattle, WA🌲</h3>
+<h1 align="left">Hi 👋, I'm Rachel Salazar</h1>
+<h3 align="left">A Front-End Developer from Seattle, WA🌲</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
